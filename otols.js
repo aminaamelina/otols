@@ -14,7 +14,7 @@ function preload() {
   // preload() runs once, it may make you wait
   //  img = loadImage('cat.png');  // cat.jpg needs to be next to this .js file
   // you can link to an image on your github account
-  img = loadImage('ibunny.png');
+  //img = loadImage('ibunny.png');
 }
 
 function setup() {
